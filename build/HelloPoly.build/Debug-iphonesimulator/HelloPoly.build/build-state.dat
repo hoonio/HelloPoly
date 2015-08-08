@@ -1,0 +1,387 @@
+THelloPoly
+v7
+r0
+t289792417.910716
+cCheck dependencies
+cProcessInfoPlistFile /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist HelloPoly-Info.plist
+cCompileXIB /Users/Hoonio/Documents/Apps/HelloPoly/MainWindow.xib
+cProcessPCH /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch.gch HelloPoly_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o /Users/Hoonio/Documents/Apps/HelloPoly/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o /Users/Hoonio/Documents/Apps/HelloPoly/Classes/HelloPolyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonShape.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly normal i386
+cGenerateDSYMFile /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+cTouch /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B61C56E00000000000000EE
+t1264698734
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../Controller.m
+c000000004B95AA2000000000000006FF
+t1268099616
+s1791
+i"Controller.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonShape.m
+c000000004B93D7C70000000000000BF6
+t1267980231
+s3062
+i"PolygonShape.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m
+c000000004B9524CA00000000000008CE
+t1268065482
+s2254
+i"PolygonView.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/Classes/HelloPolyAppDelegate.h
+c000000004B9128A8000000000000013F
+t1267804328
+s319
+i<UIKit/UIKit.h>
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/Classes/HelloPolyAppDelegate.m
+c000000004B9128A800000000000001DB
+t1267804328
+s475
+i"HelloPolyAppDelegate.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.h
+c000000004B93C941000000000000013E
+t1267976513
+s318
+i<Cocoa/Cocoa.h>
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m
+c000000004B93C97400000000000003AB
+t1267976564
+s939
+i"PolygonView.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/Controller.h
+c000000004B95A9C40000000000000257
+t1268099524
+s599
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"PolygonShape.h"
+i"PolygonView.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m
+c000000004B93C89C00000000000004E2
+t1267976348
+s1250
+i"Controller.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/HelloPoly_Prefix.pch
+c000000004B9128A800000000000000BB
+t1267804328
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/MainWindow.xib
+c000000004B95A964000000000000783B
+t1268099428
+s30779
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/PolygonShape.h
+c000000004B93D38F0000000000000430
+t1267979151
+s1072
+i<Foundation/Foundation.h>
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/PolygonShape.m
+c000000004B93D3E90000000000000C91
+t1267979241
+s3217
+i"PolygonShape.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/PolygonView.h
+c000000004B95ABEC00000000000001EA
+t1268100076
+s490
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"PolygonShape.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/PolygonView.m
+c000000004B93E65200000000000000AC
+t1267983954
+s172
+i"PolygonView.h"
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+t1268099617
+s204
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM
+t1268099617
+s102
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+t1268099617
+s27720
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist
+t1267974754
+s572
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/MainWindow.nib
+t1268099433
+s4377
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/PkgInfo
+t1267974754
+s8
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o
+t1268099617
+s16256
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPoly.LinkFileList
+c000000004B93E901000000000000029B
+t1267984641
+s667
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o
+t1267805646
+s17212
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o
+t1267980231
+s15632
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o
+t1268065482
+s14192
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o
+t1267805646
+s5956
+
+N/Users/Hoonio/Documents/Apps/HelloPoly/main.m
+c000000004B9128A8000000000000015D
+t1267804328
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch.gch
+t1267805646
+s13034960
+
+NHelloPoly-Info.plist
+c000000004B93C262000000000000038E
+t1267974754
+s910
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289792417#289792417#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289792417.729103
+e289792417.877355
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o
+x/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../Controller.m289792417#289792417#0(0"0(0#0#62"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../Controller.m4300885448#1922"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -I/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch -c /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../Controller.m -o /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o /Users/Hoonio/Documents/Apps/HelloPoly/Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289666180.836283
+e289666181.832372
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o
+x/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m: In function '-[Controller decrease:]':
+o/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:16: warning: 'Controller' may not respond to '-updateInterface'
+o/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:16: warning: (Messages without a matching method signature
+o/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:16: warning: will be assumed to return 'id' and accept
+o/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:16: warning: '...' as arguments.)
+o/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m: In function '-[Controller increase:]':
+o/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:23: warning: 'Controller' may not respond to '-updateInterface'
+lSLF07#2@59"Compile /Users/Hoonio/Documents/Apps/HelloPoly/Controller.m289666180#289666181#0(720"/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m: In function '-[Controller decrease:]':/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:16: warning: 'Controller' may not respond to '-updateInterface'/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:16: warning: (Messages without a matching method signature/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:16: warning: will be assumed to return 'id' and accept/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:16: warning: '...' as arguments.)/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m: In function '-[Controller increase:]':/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m:23: warning: 'Controller' may not respond to '-updateInterface'3(22@50"'Controller' may not respond to '-updateInterface'289666181#92#116#0(6@51"/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m289503319#16#0#16#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289666181#208#111#0(6@51"/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m289503319#16#0#16#0#0"0(22@50"'Controller' may not respond to '-updateInterface'289666181#604#116#0(6@51"/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m289503319#23#0#23#0#26"'*' may not respond to '*'0(0#0#51"/Users/Hoonio/Documents/Apps/HelloPoly/Controller.m4697099880276257792#1911"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -I/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch -c /Users/Hoonio/Documents/Apps/HelloPoly/Controller.m -o /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o /Users/Hoonio/Documents/Apps/HelloPoly/Classes/HelloPolyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289498446.705341
+e289498446.893574
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o
+x/Users/Hoonio/Documents/Apps/HelloPoly/Classes/HelloPolyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Hoonio/Documents/Apps/HelloPoly/Classes/HelloPolyAppDelegate.m289498446#289498446#0(0"0(0#0#69"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/HelloPolyAppDelegate.m4300885448#1939"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -I/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch -c /Users/Hoonio/Documents/Apps/HelloPoly/Classes/HelloPolyAppDelegate.m -o /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonShape.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289673031.252924
+e289673031.443903
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o
+x/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonShape.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonShape.m289673031#289673031#0(0"0(0#0#64"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonShape.m4300885448#1926"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -I/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch -c /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonShape.m -o /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o /Users/Hoonio/Documents/Apps/HelloPoly/PolygonShape.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289672075.151792
+e289672075.212804
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o
+x/Users/Hoonio/Documents/Apps/HelloPoly/PolygonShape.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Hoonio/Documents/Apps/HelloPoly/PolygonShape.m289672075#289672075#0(0"0(0#0#53"/Users/Hoonio/Documents/Apps/HelloPoly/PolygonShape.m4300885448#1915"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -I/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch -c /Users/Hoonio/Documents/Apps/HelloPoly/PolygonShape.m -o /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289758282.255751
+e289758282.492014
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o
+x/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m:76: warning: property 'polygon' requires method '-polygon' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@71"Compile /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m289758282#289758282#0(200"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m:76: warning: property 'polygon' requires method '-polygon' to be defined - use @synthesize, @dynamic or provide a method implementation1(22@122"Property 'polygon' requires method '-polygon' to be defined - use @synthesize, @dynamic or provide a method implementation289758282#0#200#0(6@63"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m289758282#76#0#76#0#0"0(0#0#63"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m4300885448#1924"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -I/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch -c /Users/Hoonio/Documents/Apps/HelloPoly/Classes/../PolygonView.m -o /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o /Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289669370.793265
+e289669370.905296
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o
+x/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m: In function '+[PolygonView pointsForPolygonInRect:numberOfSides:]':
+o/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m:33: warning: control reaches end of non-void function
+o/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m: At top level:
+o/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m:35: warning: incomplete implementation of class 'PolygonView'
+o/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m:35: warning: method definition for '-pointsForPolygonInRect:numberOfSides:' not found
+lSLF07#2@68"Compile /Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m289669370#289669370#0(591"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m: In function '+[PolygonView pointsForPolygonInRect:numberOfSides:]':/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m:33: warning: control reaches end of non-void function/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m: At top level:/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m:35: warning: incomplete implementation of class 'PolygonView'/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m:35: warning: method definition for '-pointsForPolygonInRect:numberOfSides:' not found4(22@40"Control reaches end of non-void function289669370#130#115#0(6@60"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m289669364#33#0#33#0#40"control reaches end of non-void function0(23@13"At top level:289669370#245#76#0(6@60"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m289669364#0#0#0#0#0"0(22@48"Incomplete implementation of class 'PolygonView'289669370#321#123#0(6@60"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m289669364#35#0#35#0#38"incomplete implementation of class '*'0(22@72"Method definition for '-pointsForPolygonInRect:numberOfSides:' not found289669370#444#147#0(6@60"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m289669364#35#0#35#0#35"method definition for '*' not found0(0#0#60"/Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m4300885448#1921"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -I/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch -c /Users/Hoonio/Documents/Apps/HelloPoly/Classes/PolygonView.m -o /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonView.o /Users/Hoonio/Documents/Apps/HelloPoly/PolygonView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o /Users/Hoonio/Documents/Apps/HelloPoly/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289498446.704306
+e289498446.891069
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o
+x/Users/Hoonio/Documents/Apps/HelloPoly/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Hoonio/Documents/Apps/HelloPoly/main.m289498446#289498446#0(0"0(0#0#45"/Users/Hoonio/Documents/Apps/HelloPoly/main.m4300885448#1899"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -I/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch -c /Users/Hoonio/Documents/Apps/HelloPoly/main.m -o /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Hoonio/Documents/Apps/HelloPoly/MainWindow.xib
+s289792233.610754
+e289792233.984360
+r1
+xCompileXIB
+x/Users/Hoonio/Documents/Apps/HelloPoly/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289792233#289792233#0(0"0(0#0#53"/Users/Hoonio/Documents/Apps/HelloPoly/MainWindow.xib4300885448#484"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/MainWindow.nib /Users/Hoonio/Documents/Apps/HelloPoly/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+s289792417.897129
+e289792417.908491
+r1
+xGenerateDSYMFile
+x/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM
+x/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/HelloPoly.app.dSYM build/Debug-iphonesimulator/HelloPoly.app/HelloPoly289792417#289792417#0(0"0(0#0#90"/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly4300885448#389"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly -o /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM0#
+
+CLd /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly normal i386
+s289792417.877638
+e289792417.897035
+r1
+xLd
+x/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+xnormal
+xi386
+lSLF07#2@95"Link /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly289792417#289792417#0(0"0(0#0#0"4300885448#874"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -filelist /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPoly.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly0#
+
+CProcessInfoPlistFile /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist HelloPoly-Info.plist
+s289667554.474749
+e289667554.478369
+r1
+xProcessInfoPlistFile
+x/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist
+xHelloPoly-Info.plist
+lSLF07#2@28"Process HelloPoly-Info.plist289667554#289667554#0(0"0(0#0#59"/Users/Hoonio/Documents/Apps/HelloPoly/HelloPoly-Info.plist4300885448#485"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloPoly-Info.plist -genpkginfo /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist0#
+
+CProcessPCH /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch.gch HelloPoly_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289498445.967567
+e289498446.704204
+r1
+xProcessPCH
+x/var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch.gch
+xHelloPoly_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile HelloPoly_Prefix.pch289498445#289498446#0(0"0(0#0#59"/Users/Hoonio/Documents/Apps/HelloPoly/HelloPoly_Prefix.pch4300885448#1789"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator -I/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Hoonio/Documents/Apps/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -c /Users/Hoonio/Documents/Apps/HelloPoly/HelloPoly_Prefix.pch -o /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-bbobqbvcwavsvidsnjhhatdosczk/HelloPoly_Prefix.pch.gch0#
+
+CTouch /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+s289792417.908571
+e289792417.910673
+r1
+xTouch
+x/Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+lSLF07#2@86"Touch /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app289792417#289792417#0(0"0(0#0#0"4300885448#280"    cd /Users/Hoonio/Documents/Apps/HelloPoly    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Hoonio/Documents/Apps/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app0#
+
